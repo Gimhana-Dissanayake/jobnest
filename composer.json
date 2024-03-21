@@ -1,0 +1,16 @@
+{
+    "name":"gimhana-dissanayake/jobnest",
+    "description": "Job listing application",
+    "authors":[
+        {
+            "name":"Gimhana Dissanayake",
+            "email":"gimhanadev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "Framework\\": "Framework/",
+            "App\\": "App/"
+        }
+    }
+}
